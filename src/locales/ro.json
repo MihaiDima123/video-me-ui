@@ -1,0 +1,10 @@
+{
+  "actions": {
+    "call": {
+      "join": "Intra in meeting"
+    }
+  },
+  "on-call": {
+    "call-id": "Identificator intalnire"
+  }
+}

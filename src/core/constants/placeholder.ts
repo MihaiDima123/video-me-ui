@@ -1,0 +1,5 @@
+const DEFAULT_PLACEHOLDER = 'N/A'
+
+export {
+    DEFAULT_PLACEHOLDER
+}

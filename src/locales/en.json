@@ -1,0 +1,10 @@
+{
+  "actions": {
+    "call": {
+      "join": "Join call"
+    }
+  },
+  "on-call": {
+    "call-id": "Call Id"
+  }
+}
